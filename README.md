@@ -16,7 +16,7 @@ In the financial markets, stock price prediction is a challenging task due to th
 ## Model Setup:
 
 We started with an LSTM model that predicted the next day's closing price based solely on a sequence of previous closing prices.
-Additionally, we utilized a BERT transformer model to analyze the day's financial news headlines and obtain sentiment-driven insights. These two submodels are then aggregated with a concatenation layer for the final output.
+Additionally, we utilized a BERT transformer model to analyze the day's financial news headlines and obtain sentiment-driven insights. These two submodels are then aggregated with a concatenation layer for the final output.  
 ![image](https://github.com/user-attachments/assets/9d46504d-e5e2-4ae3-a4ef-fe1d5057ab1b)
 
 ## Initial Results:

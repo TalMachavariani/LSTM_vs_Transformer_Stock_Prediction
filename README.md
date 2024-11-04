@@ -1,7 +1,7 @@
 # Stock Price Prediction Using Deep Learning
 
 Predicting Stock Market with LSTM and Transformers  
-Assaf Levanon & Tal  
+Assaf Levanon & Tal Machavariani  
 Deep Learning - Spring 2024 - 00046211
 
 ## Introduction
@@ -17,6 +17,8 @@ In the financial markets, stock price prediction is a challenging task due to th
 
 We started with an LSTM model that predicted the next day's closing price based solely on a sequence of previous closing prices.
 Additionally, we utilized a BERT transformer model to analyze the day's financial news headlines and obtain sentiment-driven insights. These two submodels are then aggregated with a concatenation layer for the final output.
+![image](https://github.com/user-attachments/assets/9d46504d-e5e2-4ae3-a4ef-fe1d5057ab1b)
+
 ## Initial Results:
 
 The models were able to produce predictions that visually resembled the actual stock price trends.

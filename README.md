@@ -62,6 +62,7 @@ To use the project you should download the repository, install the required depe
 ### Repository Structure
 * README.md: Project overview and instructions.
 * requirements.txt: List of dependencies.
+* Project_Report.pdf: contains In-depth examination of the project
 * data/: Directory to store datasets.
 * src/: Directory to store Source code.
 

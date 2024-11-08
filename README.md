@@ -63,7 +63,7 @@ To use the project you should download the repository, install the required depe
 * README.md: Project overview and instructions.
 * requirements.txt: List of dependencies.
 * data/: Directory to store datasets.
-* src/: Source code for the project.
+* src/: Directory to store Source code.
 
 
 ### Clone the repository:

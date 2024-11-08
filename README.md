@@ -68,7 +68,7 @@ To use the project you should download the repository, install the required depe
 
 ### Clone the repository:
 ```
-git clone https://github.com/yourusername/stock-market-prediction.git
+git clone https://github.com/AssafLe/DLproject.git
 ```
 
 ### Install the required dependencies:
